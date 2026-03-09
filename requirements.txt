@@ -1,5 +1,8 @@
 streamlit
-mysql-connector-python 
-pandas 
-requests 
-streamlit-lottie
+mysql-connector-python
+pandas
+matplotlib
+fpdf
+joblib
+numpy
+scikit-learn
